@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.home.services.exception.controller.ServiceErrorController,\
+  com.home.services.exception.handler.RestServiceExceptionHandler
